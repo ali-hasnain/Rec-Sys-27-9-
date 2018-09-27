@@ -1,0 +1,180 @@
+Service_Id,Service_Name,Topic
+1,Dental Service,Dental
+2,Alameda Family Dental,Dental
+3,Diabetes Awarness,Diabetes
+4,Pain Relief,Pain
+5,Control Blood Pressure,B.P
+6,Yoga Awarness,Exercise and Yoga
+7,Acupuncture Therapy,Acupuncture
+8,Chiropractic Simplified,Chiropractic
+9,Certified Exercise Professionals,Exercise and Yoga
+10,Control Cholesterol,Cholestrol
+11,Thrive Feeling,other
+12,Quit Smoking,Smoking
+13,Quit Alcohol,"Alcohol,smoking"
+14,Bay Area Chiropractic Care,Chiropractic
+15,Dental Care Total Health,Dental
+16,Back In Balance Chiropractic,Chiropractic
+17,Bay Area Diabetes And Wellness,Diabetes
+18,Namaste Yoga And Wellness,Exercise and Yoga
+19,Acupuncture Works,Acupuncture
+20,Fitness Evolved,Exercise and Yoga
+21,Alameda Family Services,Family
+22,Community Psychiatry Associates,Psychiatric
+23,Finger Art Massage Therapy,Exercise and Yoga
+24,Center For Employment Opportunities,other
+25,Family Planning Specialists Medical Group,women
+26,50% off Advanced Food Concepts,Nutrition
+27,New Life Recovery Centers Inc,other
+28,East Bay Obstetrics And Gynecology Medical Associates,Family
+29,Internal Medicine Associates Of Berkeley,other
+30,Restore Women's Wellness Centers,women
+31,Michael Wong chiropractor & Chiropractic Services,Chiropractic
+32,North Oakland Chiropractic Services,Chiropractic
+33,Integrative Chiropractic,Chiropractic
+34,Urban Comfort Accupuncture,Acupuncture
+35,City Pulse Acupuncture,Acupuncture
+36,Cho`s Acupuncture,Acupuncture
+37,Sports & Orthopedic Specialists,Orthopedic
+38,Accident & Injury Center of Oakland,Injury and Accident
+39,HealthSouth Corporation,other
+40,Wise Body Yoga,Exercise and Yoga
+41,Asana Yoga,Exercise and Yoga
+42,Monkey Yoga Shala,Exercise and Yoga
+43,Harbor Bay Club,Exercise and Yoga
+44,Bay View Dental Inc,Dental
+45,The Dental Touch,Dental
+46,Berkeley Therapy Institute,other
+47,Bayside Medical Group,other
+48,Outpatient Rehabilitation Facility,Rehab
+49,Bridge Family Practice,Family
+50,Diabetes Hands Foundation,Diabetes
+51,Alta Bates Summit Diabetes Center,Diabetes
+52,Oakland Hills Tennis Club,other
+53,"Fitts, Susan",other
+54,Home Base Parenting Fundamentals,Family
+55,Heritage Psychiatric Health,Psychiatric
+56,Cohen Barbara PsyD MFT,other
+57,"Liu, Jing Y",other
+58,Fit&Fun! Sports Nutrition Oakland,Nutrition
+59,Healthier You Wellness Center Inc,Nutrition
+61,"Cannariato, Paul DDS",other
+62,Flu Shot Vaccine Services,Vaccine
+63,Install Smoke Detectors - Bay Area Home Safety,other
+64,Tetanus Vaccine Services,Vaccine
+65,Diabetes Self-Management,Diabetes
+66,Anti Depression Program,depression
+67,Hypertension Management,depression
+68,Exercise Experts Program,Exercise and Yoga
+69,Obesity Awareness,Weight
+70,Yoga Awareness,Exercise and Yoga
+71,Healthy Eating And Living,Nutrition
+72,Pain Relief Program,Pain
+73,Leave Behind Your Fianancial Problems,other
+74,Dental Care,Dental
+75,Cholesterol & Triglycerides Health Center,Cholestrol
+76,Skin Care Therapy,Skin
+77,Vision Therapy,Opthal
+78,Alcohol Awareness Program,Alcohol
+79,Vitamin Minerals,Nutrition
+80,Diet Specialist Online Nutrition,Nutrition
+81,Flu: Get Free Shot - This Season,other
+82,Tetanus Vaccination Immunise,Vaccine
+83,Control Your Weight,Weight
+84,Use Seat Belt,other
+85,Balance Your Work and Life Balance,other
+86,Positive Work Environment,other
+87,Helmet Safety Program,other
+102,Yoga Awarness (Special Batch for Women),Exercise and Yoga
+103,Bayside Medical Group,other
+105,Happy Smile Dental Care,Dental
+106,Yoga 24,Exercise and Yoga
+109,Happy Smile Dental Care,Dental
+116,Develop Good Drving Habits,other
+117,Healthy Eating And Living,Nutrition
+119,Strong Structures,other
+126,Workout Fitness,Exercise and Yoga
+128,The Complete 4-Week Beginner's Workout,Exercise and Yoga
+131,Fitness Yoga,Exercise and Yoga
+132,Yoga for all-round fitness,Exercise and Yoga
+147,Best Dental Service,Dental
+149,Diabetes Awareness,Diabetes
+150,eat nutrition,Nutrition
+151,Art of Living,other
+152,Quit Smoking Center,Smoking
+153,Best Yoga,Exercise and Yoga
+156,Yoga,Exercise and Yoga
+173,fit to fit health,Exercise and Yoga
+174,Acupressure Therapy,Acupuncture
+181,Nutrition for Health,Nutrition
+182,yoga health care centre,Exercise and Yoga
+184,Health Service,Exercise and Yoga
+185,Bay Area Chiro,Chiropractic
+195,Oakland Chiro - Emeryville,Chiropractic
+197,Yoga for Health,Exercise and Yoga
+198,Hair Colouring,hair
+199,Hair Colouring,hair
+200,stitching,Injury and Accident
+201,Hair Colouring,hair
+202,Yoga For Health,Exercise and Yoga
+204,Fitness,Exercise and Yoga
+205,Yoga,Exercise and Yoga
+208,Yoga,Exercise and Yoga
+209,Yoga,Exercise and Yoga
+216,skin,Skin
+229,Test,other
+231,Dental Service,Dental
+241,Chiropractic Service for Neck Pain,Chiropractic
+244,Life Long Nutritions,Nutrition
+245,Acupuncture Services,Acupuncture
+247,Service for testing offer and validation,other
+248,Testing Service Offer With Availability added,other
+249,Health and Wellness,other
+250,Asana,Exercise and Yoga
+251,Scientists uncover why sauna bathing is good for your health,other
+254,Yoga and Fitness,Exercise and Yoga
+255,acupuncture,Acupuncture
+257,acupuncture,Acupuncture
+259,Acupuncture,Acupuncture
+285,Body Acupuncture,Acupuncture
+288,Fitness,Exercise and Yoga
+289,Initial nutritionist consultation,Nutrition
+292,DEMO - Initial nutritionist consultation,Nutrition
+293,Example,other
+296,Healthy eating and exercise,Exercise and Yoga
+297,Dietitian-designed anti-finflammatory meal plan,Nutrition
+298,Sensitive teeth,Dental
+299,Are dentists contributing to antibiotic overuse?,other
+300,Yoga 24 Hours,Exercise and Yoga
+301,FitnessMaster,Exercise and Yoga
+303,Exercise consultation,Exercise and Yoga
+304,Exercise Help,Exercise and Yoga
+306,Exercise today.......,Exercise and Yoga
+310,Exercise now,Exercise and Yoga
+315,Test Service1,other
+320,Test Service1,other
+326,Body massage,other
+330,Acupuncture Service,Acupuncture
+334,The most common lies dentists tell themselves,Dental
+335,Vendor Demo Service 1,other
+338,Swim Aerobics ROCK!,other
+341,Yoga Therapy,yoga
+342,yoga,yoga
+343,yoga,yoga
+344,Protecting your skin from sun,skin
+348,Yoga for Health,yoga
+349,Protecting your skin,skin
+350,Hair Color,other
+351,test service,other
+358,DEMO Beginning Swim Lessons,other
+359,Nutrition and Exercise Consultation,Nutrition
+360,AAAA,other
+366,Pain Relief,Pain
+367,Dental Service,Dental
+368,Yoga Awarness,yoga
+369,Nutrition Counseling and Education,Nutrition
+370,Test Phase 2,other
+375,Fitness Personal Trainer,Exercise and Yoga
+376,Dentist,Dental
+377,Acupuncture,Acupuncture
+388,aaaaaaaaaaaaaaaa,other
